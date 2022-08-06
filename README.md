@@ -7,7 +7,8 @@ An app that helps DMs come up with quick, randomly generated descriptions in DnD
 > Version 0.1 will be a proof-of-concept focused primarily on building an example description generator for making taverns. 
 
 ## MODELS
-> Taverns = { <br />
+> Taverns
+> Users
 > <span>
 
 ## ROUTES
@@ -19,17 +20,17 @@ An app that helps DMs come up with quick, randomly generated descriptions in DnD
 
 ### MVP GOALS
 
-####Version 0.1
+#### Version 0.1
 <ul>
   <li>Build a scalable, full-stack app that fetches from custom API to randomly populate and produce descriptions based on user input/dropdown menus</li>
   <li>Basic, clean styling</li>
   <li>Tavern generator module completed</li>
   <li>Deploy online</li>
+  <li>Basic User Login</li>
 </ul>
 
 ### STRETCH GOALS
 <ul>
-  <li>User registration/login</li>
   <li>Save user descriptions</li>
   <li>Edit final output in text and save descriptions</li>
 </ul>
