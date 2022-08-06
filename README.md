@@ -12,7 +12,7 @@ An app that helps DMs come up with quick, randomly generated descriptions in DnD
 > <span>
 
 ## ROUTES
-> fetch route: ()
+>
 
 ## WIREFRAMES
 
